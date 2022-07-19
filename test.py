@@ -1,2 +1,4 @@
 # 学习如何使用github
-print("hello github")
+print("Hello GitHub")
+print("Hello GitHub")
+print("Hello GitHub")
